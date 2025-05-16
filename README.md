@@ -16,12 +16,6 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 
 ---
 
-## 🚀 Live Demo
-
-[🔗 Click here to see it live (if deployed)](https://your-demo-link.com)
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure of the webpage
