@@ -25,14 +25,15 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 ---
 
 ## 📂 Project Structure
-countdown-timer/
-├── index.html # Main HTML structure
-├── style.css # Styles and responsive layout
-├── script.js # Countdown logic in JS
-├── bg.jpg # Background image
-├── screenshot.png # Project screenshot (optional)
-└── README.md # Project documentation
 
+| File/Folder         | Emoji        | Description                        |
+|---------------------|--------------|------------------------------------|
+| `index.html`        | 📄           | 🧱 Main HTML structure              |
+| `style.css`         | 🎨           | 💅 Styles and responsive layout     |
+| `script.js`         | ⚙️           | 🕒 Countdown logic in JavaScript    |
+| `bg.jpg`            | 🖼️           | 🌄 Background image                 |
+| `screenshot.png`    | 🖼️           | 📸 Project screenshot               |
+| `README.md`         | 📘           | 📝 Project documentation            |
 
 ---
 
