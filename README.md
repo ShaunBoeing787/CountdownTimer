@@ -15,6 +15,9 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 - 🔁 Updates every second using `setInterval`
 
 ---
+## 🖼️ Try it now
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -55,9 +58,9 @@ Let me know if you'd like a GitHub commit-ready folder or help deploying it onli
 
 Made with ❤️ by [ShaunBoeing787]
 
-## 🖼️ Customization
+---
 
-### 🎯 Change the countdown target:
+### 🎯 Customization:
 
 In `script.js`, update this line:
 ```js
