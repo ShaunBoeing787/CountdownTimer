@@ -4,7 +4,7 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 
 ![Screenshot](./screenshot.png) <!-- Add a screenshot image in your project root -->
 
----
+
 
 ## 📌 Features
 
@@ -14,10 +14,12 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 - 📱 Fully responsive for mobile and desktop
 - 🔁 Updates every second using `setInterval`
 
----
+
 ## 🖼️ Try it now
 
----
+https://shaunboeing787.github.io/CountdownTimer/
+
+
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +27,7 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 - **CSS3** – Styling with background image and modern typography
 - **JavaScript (Vanilla)** – Real-time countdown logic
 
----
+
 
 ## 📂 Project Structure
 
@@ -38,7 +40,7 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 | `screenshot.png`    | 🖼️           | 📸 Project screenshot               |
 | `README.md`         | 📘           | 📝 Project documentation            |
 
----
+
 
 ## 🧠 How It Works
 
@@ -47,7 +49,7 @@ A responsive and visually appealing **Countdown Timer** web app that displays th
 3. Converts total seconds into days, hours, minutes, and seconds.
 4. Dynamically updates the DOM every second to display the remaining time.
 
----
+
 
 ### ✅ What to do now:
 - Replace `[Your Name]` with your actual name or GitHub username.
@@ -58,7 +60,7 @@ Let me know if you'd like a GitHub commit-ready folder or help deploying it onli
 
 Made with ❤️ by [ShaunBoeing787]
 
----
+
 
 ### 🎯 Customization:
 
